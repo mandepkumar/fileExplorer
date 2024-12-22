@@ -1,0 +1,30 @@
+{
+  "name": "root",
+  "isFolder": true,
+  "children": [
+    {
+      "name": "public",
+      "isFolder": true,
+      "children": [
+        {
+          "name": "index.html",
+          "isFolder": false
+        }
+      ]
+    },
+    {
+      "name": "src",
+      "isFolder": true,
+      "children": [
+        {
+          "name": "index.js",
+          "isFolder": false
+        }
+      ]
+    },
+    {
+      "name": "package.json",
+      "isFolder": false
+    }
+  ]
+}
